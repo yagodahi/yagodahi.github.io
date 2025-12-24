@@ -19,7 +19,7 @@ google.com, pub-2442911022353195, DIRECT, f08c47fec0942fa0
 
 #Replace the Business_ID below with your Meta Business ID
 
-facebook.com,376949274699547,RESELLER,c3e20eee3f780d68
+facebook.com,376949274699547,DIRECT,c3e20eee3f780d68
 
 #Add other networks if applicable
 
@@ -5052,3 +5052,5 @@ zmaticoo.com,5135302,RESELLER
 zmaticoo.com,5135535,RESELLER
 
 zoomd.com,88478941,RESELLER
+
+ironsrc.com, 636943, Direct
