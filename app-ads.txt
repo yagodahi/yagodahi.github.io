@@ -1979,28 +1979,6 @@ iqzone.com,IQ96,DIRECT
 
 iqzone.com,IQ97,RESELLER
 
-ironsrc.com, 220701, RESELLER
-
-ironsrc.com, 222871, RESELLER, 79929e88b2ba73bc
-
-ironsrc.com, 228853, RESELLER
-
-ironsrc.com, 245431, RESELLER
-
-ironsrc.com, 289049, RESELLER
-
-ironsrc.com, 402176, RESELLER
-
-ironsrc.com, 556605, RESELLER
-
-ironsrc.com, 616007, RESELLER
-
-ironsrc.com, 620351, RESELLER
-
-ironsrc.com,186063,RESELLER,79929e88b2ba73bc
-
-ironsrc.com,231453,RESELLER,79929e88b2ba73bc
-
 jio.com,1547219295,RESELLER
 
 keenkale.com,43421,RESELLER,6c1c00b269ccdfa4
