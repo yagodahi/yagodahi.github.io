@@ -41,7 +41,6 @@ zmaticoo.com, 5135655, RESELLER
 
 #facebook DIRECT bizfp
 facebook.com, 788127128401044, RESELLER, c3e20eee3f780d68
-facebook.com, 1582498916413735, DIRECT, c3e20eee3f780d68
 
 #amazon DIRECT
 aps.amazon.com,8cf26626-246f-4c54-ad2d-a208d1f491b1,DIRECT
